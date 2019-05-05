@@ -1,0 +1,2038 @@
+
+
+
+
+<html lang="zh-CN">
+<head>
+<title>学生选课结果</title>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<link href="/css/newcss/project.css" rel="stylesheet" type="text/css">
+
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="0" style="overflow:auto;">
+
+
+
+
+
+
+
+
+
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr><td class="Linetop"></td>
+</tr>
+</table>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="title" id="tblHead">
+ <tr>
+  <td>
+   <table border="0" width="100%" cellpadding="0" cellspacing="0" >
+   <tr>
+   <td width="50%" align="left" valign="middle">&nbsp;<b>选课结果(已安排时间地点)</b>&nbsp;</td>
+
+<td width="50%" align="right">
+
+2019年04月24日08时26分
+
+</td>
+</tr>
+   </table>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0"  >
+ <tr>
+  <td class="Linetop"></td>
+ </tr>
+</table>
+
+
+
+
+
+
+
+
+
+<link href="/css/newcss/project.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" class="titleTop2">
+		 <tr>
+		  <td class="pageAlign">
+		   <table cellpadding="0" width="100%" class="displayTag" cellspacing="1" border="0" id="user">
+				<tr>
+    <td colspan="2" class="sortable">&nbsp;</td>
+
+
+    <td width="13%" class="sortable">
+    <div align="center">
+
+			星期一
+
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+
+			星期二
+
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+
+			星期三
+
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+
+			星期四
+
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+
+			星期五
+
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+
+			星期六
+
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+
+			星期日
+
+	</div>
+	</td>
+
+</tr>
+
+
+
+
+
+
+<tr bgcolor="#FFFFFF">
+
+<td width="3%" rowspan="4">&nbsp;<p class="style4">上午</p></td>
+
+
+			  <td width="11%">第1大节(08:00-08:50)</td>
+
+
+    <td>&nbsp;
+
+     JaveEE框架与程序设计_03(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     数字媒体设计_01(中区11教阶301)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     算法设计与分析_03(西二区6教527)<br>
+
+     社交网络与舆情分析_01(中区11教312)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     软件工程_03(中区11教309)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第1大节(09:00-09:45)</td>
+
+
+    <td>&nbsp;
+
+     JaveEE框架与程序设计_03(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     数字媒体设计_01(中区11教阶301)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     算法设计与分析_03(西二区6教527)<br>
+
+     社交网络与舆情分析_01(中区11教312)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     软件工程_03(中区11教309)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第2大节(10:15-11:00)</td>
+
+
+    <td>&nbsp;
+
+     社交网络与舆情分析_01(中区11教312)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     大学生创新创业导论_01(中区11教阶401)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     MapReduce编程_02(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     Spark数据处理技术_02(中区11教309)<br>
+
+     MapReduce编程_02(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第2大节(11:10-12:00)</td>
+
+
+    <td>&nbsp;
+
+     社交网络与舆情分析_01(中区11教312)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     大学生创新创业导论_01(中区11教阶401)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     MapReduce编程_02(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     Spark数据处理技术_02(中区11教309)<br>
+
+     MapReduce编程_02(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+<tr bgcolor="#FFFFFF">
+    <td colspan="9">&nbsp;<p align="center" class="td2 style5"><strong>午 休</strong></p></td>
+</tr>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+<td width="3%" rowspan="4">&nbsp;<p class="style4">下午</p></td>
+
+
+			  <td width="11%">第3大节(14:10-15:00)</td>
+
+
+    <td>&nbsp;
+
+     体育6_262(东区体育场东轮滑场2)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     大数据分析与应用实训_01(中区实践虚拟实践虚拟计控)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     算法设计与分析_03(中区11教304)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第3大节(15:10-15:55)</td>
+
+
+    <td>&nbsp;
+
+     体育6_262(东区体育场东轮滑场2)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     算法设计与分析_03(中区11教304)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第4大节(16:15-17:00)</td>
+
+
+    <td>&nbsp;
+
+     数据采集级处理技术_02(中区11教309)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     JaveEE框架与程序设计_03(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     创新综合实践_01(中区实践虚拟实践虚拟计控)<br>
+
+     形势与政策_02(中区11教中区俱乐部)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     数据采集级处理技术_02(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     数据可视化技术_01(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第4大节(17:10-18:00)</td>
+
+
+    <td>&nbsp;
+
+     数据采集级处理技术_02(中区11教309)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     JaveEE框架与程序设计_03(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     形势与政策_02(中区11教中区俱乐部)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     数据采集级处理技术_02(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     数据可视化技术_01(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+<tr bgcolor="#FFFFFF">
+    <td colspan="9">&nbsp;<p align="center" class="td2 style5"><strong>晚 饭</strong></p></td>
+</tr>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+<td width="3%" rowspan="4">&nbsp;<p class="style4">晚上</p></td>
+
+
+			  <td width="11%">第5大节(19:00-19:50)</td>
+
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     Spark数据处理技术_02(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     数据可视化技术_01(中区11教304)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     Spark数据处理技术_02(中区11教304)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第5大节(20:00-20:45)</td>
+
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     Spark数据处理技术_02(西二区6教617实验室)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     数据可视化技术_01(中区11教304)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     Spark数据处理技术_02(中区11教304)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第6大节(20:45-21:35)</td>
+
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第6大节(21:35-22:20)</td>
+
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+</table>
+</td>
+</tr>
+</table>
+
+<!--
+
+
+
+
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr><td class="Linetop"></td>
+</tr>
+</table>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="title" id="tblHead">
+ <tr>
+  <td>
+   <table border="0" width="100%" cellpadding="0" cellspacing="0" >
+   <tr>
+   <td width="50%" align="left" valign="middle">&nbsp;<b>选课结果列表</b>&nbsp;</td>
+
+<td width="50%" align="right">
+
+</td>
+</tr>
+   </table>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0"  >
+ <tr>
+  <td class="Linetop"></td>
+ </tr>
+</table>
+-->
+
+
+
+
+
+
+
+<link href="/css/newcss/project.css" rel="stylesheet" type="text/css">
+
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="titleTop2">
+					 <tr>
+					  <td class="pageAlign">
+					   <table cellpadding="0" width="100%" class="displayTag" cellspacing="1" border="0" id="user">
+					    <thead>
+							<tr>
+
+
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;培养方案</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;课程号</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;课程名</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;课序号</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;学分</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;课程属性</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;考试类型</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;教师</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;大纲日历</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;修读方式</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;选课状态</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;周次</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;星期</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;节次</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;节数</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;校区</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;教学楼</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;教室</th>
+
+
+</tr>
+</thead>
+
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="1" >
+	&nbsp;02126010</td>
+
+
+		<td rowspan="1" >
+	&nbsp;大数据分析与应用实训</td>
+
+
+		<td rowspan="1" >
+	&nbsp;01</td>
+
+
+		<td rowspan="1" >
+	&nbsp;2.0</td>
+
+
+		<td rowspan="1" >
+	&nbsp;必修</td>
+
+
+		<td rowspan="1" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="1" >
+	&nbsp;魏连锁* </td>
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02126010&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="1" >
+	&nbsp;置入</td>
+
+
+
+
+<td>&nbsp; 17-18周</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;3大</td>
+
+<td>&nbsp; 1</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 实践虚拟</td>
+
+<td>&nbsp; 实践虚拟计控</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="1" >
+	&nbsp;02126104</td>
+
+
+		<td rowspan="1" >
+	&nbsp;创新综合实践</td>
+
+
+		<td rowspan="1" >
+	&nbsp;01</td>
+
+
+		<td rowspan="1" >
+	&nbsp;2.0</td>
+
+
+		<td rowspan="1" >
+	&nbsp;必修</td>
+
+
+		<td rowspan="1" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="1" >
+	&nbsp;魏连锁* </td>
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02126104&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="1" >
+	&nbsp;置入</td>
+
+
+
+
+<td>&nbsp; 17-18周</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;4大</td>
+
+<td>&nbsp; 1</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 实践虚拟</td>
+
+<td>&nbsp; 实践虚拟计控</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="1" >
+	&nbsp;07301106</td>
+
+
+		<td rowspan="1" >
+	&nbsp;体育6</td>
+
+
+		<td rowspan="1" >
+	&nbsp;262</td>
+
+
+		<td rowspan="1" >
+	&nbsp;0.5</td>
+
+
+		<td rowspan="1" >
+	&nbsp;必修</td>
+
+
+		<td rowspan="1" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="1" >
+	&nbsp;张兰华* </td>
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=07301106&kxh=262"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="1" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 10-17周上</td>
+
+<td>&nbsp; 1</td>
+
+			  <td>&nbsp;3大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 东区</td>
+
+<td>&nbsp; 体育场</td>
+
+<td>&nbsp; 东轮滑场2</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="2" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="2" >
+	&nbsp;02113219</td>
+
+
+		<td rowspan="2" >
+	&nbsp;数据可视化技术</td>
+
+
+		<td rowspan="2" >
+	&nbsp;01</td>
+
+
+		<td rowspan="2" >
+	&nbsp;3.0</td>
+
+
+		<td rowspan="2" >
+	&nbsp;限选</td>
+
+
+		<td rowspan="2" >
+	&nbsp;考试</td>
+
+
+		<td rowspan="2" >
+	&nbsp;孙明* </td>
+
+
+		<td rowspan="2" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02113219&kxh=01"></td>
+
+
+		<td rowspan="2" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="2" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 1,3,5,7,9,11,13,15周上</td>
+
+<td>&nbsp; 5</td>
+
+			  <td>&nbsp;4大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 西二区</td>
+
+<td>&nbsp; 6教</td>
+
+<td>&nbsp; 617实验室</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1-16周上</td>
+
+<td>&nbsp; 4</td>
+
+			  <td>&nbsp;5大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 304</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="1" >
+	&nbsp;23101008</td>
+
+
+		<td rowspan="1" >
+	&nbsp;形势与政策</td>
+
+
+		<td rowspan="1" >
+	&nbsp;02</td>
+
+
+		<td rowspan="1" >
+	&nbsp;2.0</td>
+
+
+		<td rowspan="1" >
+	&nbsp;必修</td>
+
+
+		<td rowspan="1" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="1" >
+	&nbsp;张英琦 于春梅* </td>
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=23101008&kxh=02"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="1" >
+	&nbsp;置入</td>
+
+
+
+
+<td>&nbsp; 7-13周上</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;4大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 中区俱乐部</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="1" >
+	&nbsp;35101002</td>
+
+
+		<td rowspan="1" >
+	&nbsp;大学生创新创业导论</td>
+
+
+		<td rowspan="1" >
+	&nbsp;01</td>
+
+
+		<td rowspan="1" >
+	&nbsp;2.0</td>
+
+
+		<td rowspan="1" >
+	&nbsp;必修</td>
+
+
+		<td rowspan="1" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="1" >
+	&nbsp;张英琦* </td>
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=35101002&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="1" >
+	&nbsp;置入</td>
+
+
+
+
+<td>&nbsp; 1-16周上</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;2大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 阶401</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="1" >
+	&nbsp;02103008</td>
+
+
+		<td rowspan="1" >
+	&nbsp;软件工程</td>
+
+
+		<td rowspan="1" >
+	&nbsp;03</td>
+
+
+		<td rowspan="1" >
+	&nbsp;2.0</td>
+
+
+		<td rowspan="1" >
+	&nbsp;限必</td>
+
+
+		<td rowspan="1" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="1" >
+	&nbsp;黎明* </td>
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02103008&kxh=03"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="1" >
+	&nbsp;置入</td>
+
+
+
+
+<td>&nbsp; 1-16周上</td>
+
+<td>&nbsp; 5</td>
+
+			  <td>&nbsp;1大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 309</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="3" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="3" >
+	&nbsp;02113221</td>
+
+
+		<td rowspan="3" >
+	&nbsp;Spark数据处理技术</td>
+
+
+		<td rowspan="3" >
+	&nbsp;02</td>
+
+
+		<td rowspan="3" >
+	&nbsp;3.5</td>
+
+
+		<td rowspan="3" >
+	&nbsp;限选</td>
+
+
+		<td rowspan="3" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="3" >
+	&nbsp;李大辉* </td>
+
+
+		<td rowspan="3" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02113221&kxh=02"></td>
+
+
+		<td rowspan="3" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="3" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 2,4,6,8周上</td>
+
+<td>&nbsp; 4</td>
+
+			  <td>&nbsp;2大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 309</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1,3,5,7,9,11,13,15周上</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;5大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 西二区</td>
+
+<td>&nbsp; 6教</td>
+
+<td>&nbsp; 617实验室</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1-16周上</td>
+
+<td>&nbsp; 5</td>
+
+			  <td>&nbsp;5大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 304</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="2" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="2" >
+	&nbsp;02113218</td>
+
+
+		<td rowspan="2" >
+	&nbsp;MapReduce编程</td>
+
+
+		<td rowspan="2" >
+	&nbsp;02</td>
+
+
+		<td rowspan="2" >
+	&nbsp;2.0</td>
+
+
+		<td rowspan="2" >
+	&nbsp;限选</td>
+
+
+		<td rowspan="2" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="2" >
+	&nbsp;李丽丽* </td>
+
+
+		<td rowspan="2" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02113218&kxh=02"></td>
+
+
+		<td rowspan="2" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="2" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 13-16周上</td>
+
+<td>&nbsp; 4</td>
+
+			  <td>&nbsp;2大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 西二区</td>
+
+<td>&nbsp; 6教</td>
+
+<td>&nbsp; 617实验室</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1-12周上</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;2大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 西二区</td>
+
+<td>&nbsp; 6教</td>
+
+<td>&nbsp; 617实验室</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="1" >
+	&nbsp;02114012</td>
+
+
+		<td rowspan="1" >
+	&nbsp;数字媒体设计</td>
+
+
+		<td rowspan="1" >
+	&nbsp;01</td>
+
+
+		<td rowspan="1" >
+	&nbsp;2.0</td>
+
+
+		<td rowspan="1" >
+	&nbsp;任选</td>
+
+
+		<td rowspan="1" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="1" >
+	&nbsp;杜鹃* </td>
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02114012&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="1" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 1-16周上</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;1大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 阶301</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="2" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="2" >
+	&nbsp;02113002</td>
+
+
+		<td rowspan="2" >
+	&nbsp;算法设计与分析</td>
+
+
+		<td rowspan="2" >
+	&nbsp;03</td>
+
+
+		<td rowspan="2" >
+	&nbsp;2.0</td>
+
+
+		<td rowspan="2" >
+	&nbsp;限选</td>
+
+
+		<td rowspan="2" >
+	&nbsp;考试</td>
+
+
+		<td rowspan="2" >
+	&nbsp;杜鹃* </td>
+
+
+		<td rowspan="2" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02113002&kxh=03"></td>
+
+
+		<td rowspan="2" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="2" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 13-16周上</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;1大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 西二区</td>
+
+<td>&nbsp; 6教</td>
+
+<td>&nbsp; 527</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1-12周上</td>
+
+<td>&nbsp; 5</td>
+
+			  <td>&nbsp;3大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 304</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="2" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="2" >
+	&nbsp;02114023</td>
+
+
+		<td rowspan="2" >
+	&nbsp;社交网络与舆情分析</td>
+
+
+		<td rowspan="2" >
+	&nbsp;01</td>
+
+
+		<td rowspan="2" >
+	&nbsp;2.5</td>
+
+
+		<td rowspan="2" >
+	&nbsp;任选</td>
+
+
+		<td rowspan="2" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="2" >
+	&nbsp;黎明* </td>
+
+
+		<td rowspan="2" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02114023&kxh=01"></td>
+
+
+		<td rowspan="2" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="2" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 1-14周上</td>
+
+<td>&nbsp; 1</td>
+
+			  <td>&nbsp;2大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 312</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1,3,5,7,9,11周上</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;1大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 312</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="2" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="2" >
+	&nbsp;02113001</td>
+
+
+		<td rowspan="2" >
+	&nbsp;JaveEE框架与程序设计</td>
+
+
+		<td rowspan="2" >
+	&nbsp;03</td>
+
+
+		<td rowspan="2" >
+	&nbsp;2.5</td>
+
+
+		<td rowspan="2" >
+	&nbsp;限选</td>
+
+
+		<td rowspan="2" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="2" >
+	&nbsp;廉佐政* </td>
+
+
+		<td rowspan="2" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02113001&kxh=03"></td>
+
+
+		<td rowspan="2" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="2" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 1-16周上</td>
+
+<td>&nbsp; 1</td>
+
+			  <td>&nbsp;1大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 西二区</td>
+
+<td>&nbsp; 6教</td>
+
+<td>&nbsp; 617实验室</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 10,12,14,16周上</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;4大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 西二区</td>
+
+<td>&nbsp; 6教</td>
+
+<td>&nbsp; 617实验室</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="2" >
+	&nbsp;大数据方向</td>
+
+
+		<td rowspan="2" >
+	&nbsp;02113217</td>
+
+
+		<td rowspan="2" >
+	&nbsp;数据采集级处理技术</td>
+
+
+		<td rowspan="2" >
+	&nbsp;02</td>
+
+
+		<td rowspan="2" >
+	&nbsp;3.0</td>
+
+
+		<td rowspan="2" >
+	&nbsp;限选</td>
+
+
+		<td rowspan="2" >
+	&nbsp;考查</td>
+
+
+		<td rowspan="2" >
+	&nbsp;姜翠霞* </td>
+
+
+		<td rowspan="2" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=02113217&kxh=02"></td>
+
+
+		<td rowspan="2" >
+	&nbsp;正常</td>
+
+
+		<td rowspan="2" >
+	&nbsp;选中</td>
+
+
+
+
+<td>&nbsp; 2,4,6,8,10,12,14,16周上</td>
+
+<td>&nbsp; 4</td>
+
+			  <td>&nbsp;4大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 西二区</td>
+
+<td>&nbsp; 6教</td>
+
+<td>&nbsp; 617实验室</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1-16周上</td>
+
+<td>&nbsp; 1</td>
+
+			  <td>&nbsp;4大</td>
+
+<td>&nbsp; 2</td>
+
+<td>&nbsp; 中区</td>
+
+<td>&nbsp; 11教</td>
+
+<td>&nbsp; 309</td>
+
+</tr>
+
+</table>
+</td>
+</tr>
+</table>
+<Script language="JavaScript">
+function CxJxDgRl( a){
+	window.open("xkAction.do?"+a.name);
+}
+</Script>
+
+
+
+
+
+
+
+
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
+<tr>
+
+<td height="21" bgcolor="#F2F2F2"><div align="right">共31.0学分</div></td>
+
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

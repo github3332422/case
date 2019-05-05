@@ -1,0 +1,8 @@
+2019/01/29 20:41:03 - __main__ - INFO - 9 - Test - This is a log info
+2019/01/29 20:41:03 - __main__ - DEBUG - 10 - Test - Debugging
+2019/01/29 20:41:03 - __main__ - WARNING - 11 - Test - Warning exists
+2019/01/29 20:41:03 - __main__ - INFO - 12 - Test - Finish
+2019/01/29 20:48:01 - root - INFO - 9 - Test - This is a log info
+2019/01/29 20:48:01 - root - DEBUG - 10 - Test - Debugging
+2019/01/29 20:48:01 - root - WARNING - 11 - Test - Warning exists
+2019/01/29 20:48:01 - root - INFO - 12 - Test - Finish
